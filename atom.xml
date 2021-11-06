@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cf.521024.xyz</id>
+    <id>https://xianbaoyun.github.io</id>
     <title>CF521024自选IP-最稳定的自选IP</title>
-    <updated>2021-11-06T10:22:07.654Z</updated>
+    <updated>2021-11-06T10:27:07.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cf.521024.xyz"/>
-    <link rel="self" href="https://cf.521024.xyz/atom.xml"/>
+    <link rel="alternate" href="https://xianbaoyun.github.io"/>
+    <link rel="self" href="https://xianbaoyun.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://cf.521024.xyz/images/avatar.png</logo>
-    <icon>https://cf.521024.xyz/favicon.ico</icon>
+    <logo>https://xianbaoyun.github.io/images/avatar.png</logo>
+    <icon>https://xianbaoyun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, CF521024自选IP-最稳定的自选IP</rights>
     <entry>
         <title type="html"><![CDATA[CF优质自选IP，每15分钟自动更新！]]></title>
-        <id>https://cf.521024.xyz/post/cloudflare/</id>
-        <link href="https://cf.521024.xyz/post/cloudflare/">
+        <id>https://xianbaoyun.github.io/post/cloudflare/</id>
+        <link href="https://xianbaoyun.github.io/post/cloudflare/">
         </link>
         <updated>2021-11-06T10:06:19.000Z</updated>
         <summary type="html"><![CDATA[<p>Cloudflare 是一个全球网络，旨在让您连接到互联网的一切都安全、私密、快速和可靠；<br>
