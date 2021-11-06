@@ -1,28 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://1c2.pages.dev</id>
-    <title>专业1C2话费-线报云</title>
-    <updated>2021-05-21T16:44:24.200Z</updated>
+    <id>https://cf.521024.xyz</id>
+    <title>CF521024自选IP-最稳定的自选IP</title>
+    <updated>2021-11-06T10:22:07.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://1c2.pages.dev"/>
-    <link rel="self" href="https://1c2.pages.dev/atom.xml"/>
+    <link rel="alternate" href="https://cf.521024.xyz"/>
+    <link rel="self" href="https://cf.521024.xyz/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://1c2.pages.dev/images/avatar.png</logo>
-    <icon>https://1c2.pages.dev/favicon.ico</icon>
-    <rights>All rights reserved 2021, 专业1C2话费-线报云</rights>
+    <logo>https://cf.521024.xyz/images/avatar.png</logo>
+    <icon>https://cf.521024.xyz/favicon.ico</icon>
+    <rights>All rights reserved 2021, CF521024自选IP-最稳定的自选IP</rights>
     <entry>
-        <title type="html"><![CDATA[1c2话费教程 | 全网专业版教程]]></title>
-        <id>https://1c2.pages.dev/post/1c2/</id>
-        <link href="https://1c2.pages.dev/post/1c2/">
+        <title type="html"><![CDATA[CF优质自选IP，每15分钟自动更新！]]></title>
+        <id>https://cf.521024.xyz/post/cloudflare/</id>
+        <link href="https://cf.521024.xyz/post/cloudflare/">
         </link>
-        <updated>2021-05-21T16:41:34.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>1c2话费教程 | 1c2话费群 |半价话费群</strong><br>
-<strong>建议新人都读一下，老司机不用管，请无视。</strong></p>
-<p>①购买前：话费车发出来一般都是写明几c几(几块冲几块话费)并带一个淘口令。<br>
-复制这条消息到淘宝，领券，然后选择最便宜的购买。</p>
-<p>②购买时：!!!!!!在备注处写上手机号!!!!!!，有的还需要上传身份证，这种的随便上传3张照片，身份证号随便编满就可以了。也有跳过这一步的方法，看图。</p>
-<figure data-type="image" tabindex="1"><img src="https://p.ssl.qhimg.com/t0188505e24345c69f9.png" alt="请输入图片描述" loading="lazy"></figure>
-<p>③购买后：话费没到账问客服时，不要涉及“话费”二字， 商家怕被查，会否认。可以说“发货了吗？&quot;,&quot;帮我查一下发货了吗?”,&quot;可以给一下发货截图吗？&quot;</p>
+        <updated>2021-11-06T10:06:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>Cloudflare 是一个全球网络，旨在让您连接到互联网的一切都安全、私密、快速和可靠；<br>
+其加速解析由 521024 提供。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Cloudflare 是一个全球网络，旨在让您连接到互联网的一切都安全、私密、快速和可靠；<br>
+其加速解析由 521024 提供。</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/xianbaoyun/img/2021/up/7c3b1a.png" alt="" loading="lazy"></figure>
+<p>本加速解析永久地址：CF.521024.XYZ</p>
+<p>CloudFlare 加速解析是 521024 向中国大陆用户提供的公共优化服务；<br>
+接入服务节点：cf.521024.xyz<br>
+接入使用方式类似于其它CDN的CNAME接入，可以为中国大陆用户访问Cloudflare网络节点大幅度加速。</p>
+<!-- more -->
+<p>接入方式</p>
+<p><strong>如何接入使用 Cloudflare 加速解析？</strong></p>
+<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/xianbaoyun/img/2021/up/57c52b.png" alt="" loading="lazy"></figure>
+<p>1、登陆 www.cloudflare.com ，按网页提示配置域名解析并启用CDN服务，如是Plus、Pro、Business计划，等待生效后进行下一步（Free计划使用 CNAME接入）</p>
+<p>2、修改域名NS到第三方DNS解析服务商（需支持分区解析，DNS服务商推荐：Aliyun、Dnspod）</p>
+<p>3、在第三方DNS解析服务商中每个子域名配置两条DNS解析：<br>
+海外（全网默认）线路CNAME解析指向：域名全称.cdn.cloudflare.net（例如：1.2.cdn.cloudflare.net，如不指向，可能会被CloudFlare限制）</p>
+<p>国内（中国大陆）所有运营商线路CNAME解析指向：cf.521024.xyz<br>
+请一定要添加海外线路！</p>
 ]]></content>
     </entry>
 </feed>
