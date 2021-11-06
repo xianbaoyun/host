@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://f18.521024.xyz</id>
-    <title>Fang12.</title>
-    <updated>2021-11-06T17:29:27.208Z</updated>
+    <title>Fang18.</title>
+    <updated>2021-11-06T17:58:38.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://f18.521024.xyz"/>
     <link rel="self" href="https://f18.521024.xyz/atom.xml"/>
-    <subtitle>爱好和特长有很多，擅长word、excel、 ppt、 wind等软件的安装与卸载，精通PE、PS、PB、 DCF、PEG等单词的拼写，拥有B站、腾讯视频、优酷、爱奇艺注册账号，熟悉Windows、Linux、 Mac、Android、IOS、HarmonyOS、MIUI、WP8等系统的开关机。</subtitle>
+    <subtitle>爱好和特长有很多，擅长word、excel、 ppt、 wind等软件的安装与卸载，精通PE、PS、PB、 DCF、PEG等单词的拼写，拥有B站、腾讯视频、优酷、爱奇艺注册账号.
+熟悉Windows、Linux、 Mac、Android、IOS、HarmonyOS、MIUI、WP8等系统的开关机。</subtitle>
     <logo>https://f18.521024.xyz/images/avatar.png</logo>
     <icon>https://f18.521024.xyz/favicon.ico</icon>
-    <rights>All rights reserved 2021, Fang12.</rights>
+    <rights>All rights reserved 2021, Fang18.</rights>
     <entry>
         <title type="html"><![CDATA[中华民族精神学习通答案]]></title>
         <id>https://f18.521024.xyz/zhmzdan/</id>
